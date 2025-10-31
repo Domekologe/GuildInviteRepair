@@ -1,0 +1,8 @@
+## Interface: 50501,50502
+## Title: GuildInviteRepair
+## Notes: Fix for guild invite
+## Author: Domekologe
+## Version: 1.0.1
+
+# Core
+GuildInviteRepair.lua
